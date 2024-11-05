@@ -15,7 +15,7 @@ A simulation of storage areas using FIFO (First In, First Out) principles. This 
 
 ## Installation
 bash
-git clone https://github.com/YOUR_USERNAME/storage-simulation.git
+git clone https://github.com/ZeroDTE/storage-simulation.git
 cd storage-simulation
 pip install -r requirements.txt
 
